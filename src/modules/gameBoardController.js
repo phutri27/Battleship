@@ -8,7 +8,4 @@ function gameBoard(){
         }
     }
 
-    function Cell(){
-        
-    }
 }
