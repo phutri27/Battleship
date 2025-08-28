@@ -16,7 +16,7 @@ class Ship {
     if (this.getHit() === length){
         this.sunk = true;
     }
-    return this.sunk
+    return this.sunk;
   }
 }
 
